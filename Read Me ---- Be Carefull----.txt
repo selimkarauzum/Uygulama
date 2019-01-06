@@ -1,0 +1,18 @@
+
+------------------------Secure Electronic Voting System-------------------------------
+
+1.First, export the program you are going to use from within RAR.---> processing-2.2.1
+
+2.Secondly, you are installing the arduino program as your program.---> arduino-1.6.8
+
+3.Then open the processing program and open the project.pde file in the project folder.--->project.pde
+
+4.We will open the arduino program that will display the fingerprints, then open the newfingerprint.ino file in the newfingerprint folder.--->newfingerprint.ino 
+
+5.After registering the fingerprint, we open and run the all_the_values.ino file in the allthevalues folder.
+If you do not install it, your program will not work.  Be very be carefull.-->all_the_values.ino 
+
+6.You need to put the images to be added on the system to the images folder and register the extension of this folder onto the database.
+
+7.The file in the backup can replace the system error that may occur.
+
